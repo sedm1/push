@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <header>
-      <span>Vue Pwa Push Notification</span>
+      <span>Vue Pwa Push Notificationa</span>
     </header>
     <main>
       <img src="./assets/logo.png" alt="Vue.js PWA">
